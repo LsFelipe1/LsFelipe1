@@ -8,7 +8,6 @@
   <div>
     <img src="https://komarev.com/ghpvc/?username=LsFelipe1&label=Visitas&color=brightgreen&style=for-the-badge" alt="visitors"/>
     <img src="https://img.shields.io/github/followers/LsFelipe1?label=Seguidores&style=for-the-badge&color=purple" alt="followers"/>
-    <img src="https://gpvc.arturio.dev/LsFelipe1" alt="visitors badge"/>
   </div>
 
   <br/>
@@ -39,7 +38,7 @@
   <!-- Onde me encontrar -->
   <h2>🌐 Onde me encontrar</h2>
   <div align="center">
-    <a href="https://www.linkedin.com/in/felipe-torres-703326360/"></a>
+    <a href="https://www.linkedin.com/in/felipe-torres-703326360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:felipetorres2017g@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </div>
 
