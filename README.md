@@ -39,7 +39,7 @@
   <!-- Onde me encontrar -->
   <h2>🌐 Onde me encontrar</h2>
   <div align="center">
-    <a href="https://www.linkedin.com/in/felipe-torres-703326360/">
+    <a href="https://www.linkedin.com/in/felipe-torres-703326360/"></a>
     <a href="mailto:felipetorres2017g@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </div>
 
