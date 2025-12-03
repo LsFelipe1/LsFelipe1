@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/LsFelipe1/LsFelipe1/main/banner.png" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,1:764ba2&height=300&section=header&text=Luís%20Felipe&fontSize=90&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <div align="center">
   <h1>Oi, eu sou Luís Felipe </h1>
   <p><strong>Desenvolvedor Front-end | React, JavaScript & UI/UX</strong></p>
   
-  <!-- Badges animadas -->
+  <!-- Badges -->
   <div>
     <img src="https://komarev.com/ghpvc/?username=LsFelipe1&label=Visitas&color=brightgreen&style=for-the-badge" alt="visitors"/>
     <img src="https://img.shields.io/github/followers/LsFelipe1?label=Seguidores&style=for-the-badge&color=purple" alt="followers"/>
@@ -31,10 +31,7 @@
   <!-- Projetos em destaque -->
   <h2>🔥 Projeto que tenho orgulho</h2>
   <div align="center">
-    <a href="https://github.com/LsFelipe1/ecommerce">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=LsFelipe1&repo=ecommerce&theme=tokyonight&hide_border=true" />
-    </a>
-    <p>E-commerce de venda de fastfood completo, pessoalmente meu projeto favorito</p>
+    <p><a href="https://github.com/LsFelipe1/ecommerce">E-commerce</a> de venda de fastfood completo, pessoalmente meu projeto favorito</p>
   </div>
 
   <br/>
@@ -48,16 +45,8 @@
 
   <br/>
 
-  <!-- Snake animado (opcional, mas todo mundo ama) -->
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LsFelipe1/LsFelipe1/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LsFelipe1/LsFelipe1/output/github-contribution-grid-snake.svg" />
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LsFelipe1/LsFelipe1/output/github-contribution-grid-snake.svg" />
-    </picture>
-  </div>
 
-  <!-- Trophy (opcional) -->
+  <!-- Trophy -->
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=LsFelipe1&theme=tokyonight&no-frame=true&row=1&column=7" />
   </div>
