@@ -31,7 +31,7 @@
   <!-- Projetos em destaque -->
   <h2>🔥 Projeto que tenho orgulho</h2>
   <div align="center">
-    <a href="[https://github.com/seuusuario/projeto1](https://github.com/LsFelipe1/ecommerce)">
+    <a href="[https://github.com/LsFelipe1/ecommerce](https://github.com/LsFelipe1/ecommerce)">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LsFelipe1&repo=ecommerce&theme=tokyonight&hide_border=true" />
     </a>
     <p>E-commerce de venda de fastfood completo, pessoalmente meu projeto favorito</p>
@@ -51,9 +51,9 @@
   <!-- Snake animado (opcional, mas todo mundo ama) -->
   <div align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seuusuario/LsFelipe1/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seuusuario/LsFelipe1/output/github-contribution-grid-snake.svg" />
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seuusuario/LsFelipe1/output/github-contribution-grid-snake.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LsFelipe1/LsFelipe1/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LsFelipe1/LsFelipe1/output/github-contribution-grid-snake.svg" />
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LsFelipe1/LsFelipe1/output/github-contribution-grid-snake.svg" />
     </picture>
   </div>
 
