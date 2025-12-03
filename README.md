@@ -1,8 +1,8 @@
-<img src="https://github.com/seuusuario/seuusuario/blob/main/banner.png?raw=true" alt="Banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/LsFelipe1/LsFelipe1/main/banner.png" width="100%"/>
 
 <div align="center">
   <h1>Oi, eu sou Luís Felipe </h1>
-  <p><strong>Desenvolvedor Front-End| Apaixonado pela criação de sites</strong></p>
+  <p><strong>Desenvolvedor Front-end | React, JavaScript & UI/UX</strong></p>
   
   <!-- Badges animadas -->
   <div>
@@ -15,8 +15,8 @@
 
   <!-- Sobre -->
   <p>
-    🚀 Atualmente construindo soluções escaláveis com <strong>JS, react e Node.js</strong><br/>
-    🌱 Estudando React e AWS<br/>
+    🚀 Atualmente construindo interfaces modernas e performáticas com <strong>JS, react e Node.js</strong><br/>
+    🌱 Estudando Next.js e AWS<br/>
     ⚡ Fun fact: Apaixonado por pokémon e jogos em geral
   </p>
 
@@ -31,7 +31,7 @@
   <!-- Projetos em destaque -->
   <h2>🔥 Projeto que tenho orgulho</h2>
   <div align="center">
-    <a href="[https://github.com/LsFelipe1/ecommerce](https://github.com/LsFelipe1/ecommerce)">
+    <a href="https://github.com/LsFelipe1/ecommerce">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=LsFelipe1&repo=ecommerce&theme=tokyonight&hide_border=true" />
     </a>
     <p>E-commerce de venda de fastfood completo, pessoalmente meu projeto favorito</p>
@@ -42,7 +42,7 @@
   <!-- Onde me encontrar -->
   <h2>🌐 Onde me encontrar</h2>
   <div align="center">
-    <a href="linkedin.com/in/felipe-torres-703326360/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/felipe-torres-703326360/">
     <a href="mailto:felipetorres2017g@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </div>
 
